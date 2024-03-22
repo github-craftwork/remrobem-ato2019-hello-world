@@ -1,3 +1,3 @@
 # Hello World
 
-This is a repo with a simple GitHub Action enabled 
+This is a repo with a simple GitHub Action enabled.
